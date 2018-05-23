@@ -11,8 +11,6 @@ For instance, this modified class can be used to insert the messages in a databa
 
 ## Features added
 
-Features added to the example code for use in production.
-
 * Accept a callback for processing messages. The original writes messages to a log file.
 
 * Handle and logs error in connecting to the publisher.
