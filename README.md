@@ -22,14 +22,16 @@ For instance, this modified class can be used to insert the messages in a databa
   * whether to acknowledge receipt.
   * closing the connection after reading a given number of messages.
 
+## Files
+
+* [aconsumer.py](aconsumer.py) -- The consumer class
+* [consumer_app.py](consumer_app.py) -- Example application using the consumer class.
+
 ## Notes
 
-The consumer class is in `aconsumer.py`. All changes to the original
+All changes to the original
 example of an asynchronous consumer are marked with a comment and two
-exclamation points `!!`. The file `consumer_app.py` is an example
-application using this class `aconsumer.py`. The example application
-cannot be executed as is. The code and callback for processing the
-messages must be written by the user.
+exclamation points `!!`.
 
 
  <!-- LocalWords:  pika RabbitMQ AMQP RabbitMQ's aconsumer py -->
