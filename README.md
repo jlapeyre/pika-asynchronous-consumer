@@ -24,8 +24,8 @@ For instance, this modified class can be used to insert the messages in a databa
 
 ## Files
 
-* [aconsumer.py](aconsumer.py)  &nbspc; &mdash; &nbspc;  The consumer class.
-* [consumer_app.py](consumer_app.py) &nbspc; &mdash; &nbspc; Example application using the consumer class.
+* [aconsumer.py](aconsumer.py)  &nbsp; &mdash; &nbsp;  The consumer class.
+* [consumer_app.py](consumer_app.py) &nbsp; &mdash; &nbsp; Example application using the consumer class.
 
 ## Notes
 
