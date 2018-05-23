@@ -3,6 +3,7 @@
 import logging
 import pika
 
+# All changes to the example consumer class are marked with !!
 # !! If logging is not started in the main program, uncomment these lines.
 # LOG_FORMAT = ('%(levelname) -10s %(asctime)s %(name) -30s %(funcName) '
 #               '-35s %(lineno) -5d: %(message)s')

@@ -24,13 +24,12 @@ For instance, this modified class can be used to insert the messages in a databa
 
 ## Files
 
-* [aconsumer.py](aconsumer.py) - The consumer class
-* [consumer_app.py](consumer_app.py) &mdash; Example application using the consumer class.
+* [aconsumer.py](aconsumer.py)  &nbspc; &mdash; &nbspc;  The consumer class.
+* [consumer_app.py](consumer_app.py) &nbspc; &mdash; &nbspc; Example application using the consumer class.
 
 ## Notes
 
-All changes to the original
-example of an asynchronous consumer are marked with a comment and two
+All changes to the original example of an asynchronous consumer are marked with a comment and two
 exclamation points `!!`.
 
 
